@@ -11,6 +11,16 @@ My project _Nationalism, internationalism and sporting identity: the London and 
 
 My main research interests lie in the field of media studies, digital methods, urban studies and digital activism. 
 
+### Publications
+
+To see my publication record please check out my [ORCID profile](https://orcid.org/0000-0001-7492-7237).
+
+### Other Publications and Blog posts
+
+- [A study of Black Lives Matter protests on TikTok using the digital snowball method](https://wiki.digitalmethods.net/Dmi/SummerSchool2020CuratingPoliticsonTikTok), Digital Methods Summer School - Universiteit van Amsterdam
+- [Boris Johnson, fertility and the royal baby: how far does the concept of Olympic Legacy go?](https://blogs.bl.uk/webarchive/2020/03/boris-johnson-fertility-and-the-royal-baby-how-far-does-the-concept-of-olympic-legacy-go.html), UK Web Archive Blog - British Library
+- [What is left behind? Exploring the Olympic Games legacies through the UK Web Archive](https://blogs.bl.uk/webarchive/2019/12/what-is-left-behind-exploring-the-olympic-games-legacies-through-the-uk-web-archive-.html), UK Web Archive Blog - British Library
+
 
 
 
