@@ -3,3 +3,5 @@ title: [caio testando]
 description: [Digital Humanities<br/>
 School of Advanced Study]
 show_downloads: false
+github:
+  is_project_page: false
