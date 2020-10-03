@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: [caio testando]
 description: [Digital Humanities<br/>
 School of Advanced Study]
+show_downloads: false
