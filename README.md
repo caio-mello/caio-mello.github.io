@@ -1,17 +1,26 @@
 ### About me
 
-I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I work as an early-stage researcher at the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. Before starting my PhD, I was a fellow researcher at [CAIS - Center of Advanced Internet Studies](https://www.cais.nrw/fellows/fellow_mello/) in Bochum, Germany. There, I've conducted research on the use of social networks by #Occupy movements in Brazil. 
+I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I work as an early-stage researcher at the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. Before starting my PhD, I was a fellow researcher at [CAIS - Center of Advanced Internet Studies](https://www.cais.nrw/fellows/fellow_mello/) in Bochum, Germany. 
 
 
 ### My research
 
-My current research explores the media coverage of the Olympic Games in a cross-cultural, cross-lingual and temporal perspective. I'm especially interested in comparing how the concept of 'Olympic legacy' has been approached by the Brazilian and British media considering different locations, languages and social-political contexts. 
+My current research is part of the CLEOPATRA project, which aims to explore major events that influence and shape our lives and our societies through advanced cross-lingual processing of textual and visual information.  
 
-My main research interests cover media studies, digital methods, urban studies and digital activism. 
+My project _Nationalism, internationalism and sporting identity: the London and Rio Olympics_ explores the media coverage of the Olympic Games in a cross-cultural, cross-lingual and temporal perspective. I'm especially interested in comparing how the concept of 'Olympic legacy' has been approached by the Brazilian and British media considering different locations, languages and social-political contexts. 
 
-Besides, I'm also a journalist - although I rarely practice these days -and an amateur photographer in my free time. I have been experimenting with portraits in particular.
+My main research interests lie in the field of media studies, digital methods, urban studies and digital activism. 
 
 
+
+
+
+
+
+
+
+
+--------
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
