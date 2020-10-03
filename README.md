@@ -1,6 +1,14 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/caio-mello/caio-mello.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a researcher interested in media studies, digital methods, urban studies and digital activism. Currently, I am a Ph.D. student in Digital Humanities at the School of Advanced Study at the University of London.
+
+ 
+
+My research explores the media coverage of the Olympic Games in a cross-cultural, cross-lingual and temporal perspective. I'm especially interested in comparing how the concept of 'Olympic legacy' has been approached by the Brazilian and British media considering different locations, languages and social-political contexts. This project is part of my work as an early-stage researcher at the Cleopatra ITN, a Marie Skłodowska-Curie Innovative Training Network led by the L3S Research Center at the Gottfried Wilhelm Leibniz University of Hannover. ​
+
+ 
+
+Besides, I'm also a journalist - although I rarely practice these days -and an amateur photographer in my free time. I have been experimenting with portraits in particular.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
