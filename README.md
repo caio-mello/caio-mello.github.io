@@ -1,6 +1,6 @@
 ### About me
 
-I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I work as an early-stage researcher at the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. Before starting my PhD, I was a fellow researcher at [CAIS - Center of Advanced Internet Studies](https://www.cais.nrw/fellows/fellow_mello/) in Bochum, Germany. 
+I am currently a Ph.D. student in Digital Humanities at the [School of Advanced Study](https://research.sas.ac.uk/search/staff/1581/mr-caio-mello/), University of London. I hold a BA in Journalism and a MA in Communication, both from the Universidade Federal de Pernambuco, Brazil. I work as an early-stage researcher at the University of London for the EU-funded Horizon 2020 project [CLEOPATRA](http://cleopatra-project.eu/), under the Marie Skłodowska-Curie Innovative Training Network. Before starting my PhD, I was a fellow researcher at [CAIS - Center of Advanced Internet Studies](https://www.cais.nrw/fellows/fellow_mello/) in Bochum, Germany. 
 
 
 ### My research
