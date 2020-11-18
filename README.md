@@ -17,6 +17,7 @@ To see my publication record please check out my [ORCID profile](https://orcid.o
 
 ### Other publications and blog posts
 
+- [#OccupyEstelita: The Emergence of Identity as Part of Politcal Performativity in the Use of Facebook Events by Social Movements](https://www.cais.nrw/wp-94fa4-content/uploads/CAIS_Report/Mello-2018-Political-Performativity-CAIS-Report.pdf), Center for Advanced Internet Studies - CAIS Fellowship Report 
 - [Exploring media events with Shine](https://blogs.bl.uk/webarchive/2020/10/exploring-media-events-with-shine.html), UK Web Archive Blog - British Library
 - [A study of Black Lives Matter protests on TikTok using the digital snowball method](https://wiki.digitalmethods.net/Dmi/SummerSchool2020CuratingPoliticsonTikTok), Digital Methods Summer School - Universiteit van Amsterdam
 - [Boris Johnson, fertility and the royal baby: how far does the concept of Olympic Legacy go?](https://blogs.bl.uk/webarchive/2020/03/boris-johnson-fertility-and-the-royal-baby-how-far-does-the-concept-of-olympic-legacy-go.html), UK Web Archive Blog - British Library
