@@ -9,7 +9,7 @@ My current research is part of the CLEOPATRA project, which aims to explore majo
 
 My project _Nationalism, internationalism and sporting identity: the London and Rio Olympics_ explores the media coverage of the Olympic Games in a cross-cultural, cross-lingual and temporal perspective. I'm especially interested in comparing how the concept of 'Olympic legacy' has been approached by the Brazilian and British media considering different locations, languages and social-political contexts. This research is conducted under the supervision of [Professor Jane Winters](https://research.sas.ac.uk/search/staff/126/professor-jane-winters) and [Martin Steer](https://research.sas.ac.uk/search/staff/405/mr-marty-steer/). 
 
-My main research interests lie in the field of media studies, digital methods, urban studies and digital activism. 
+My main research interests lie in the fields of media studies, digital methods, urban studies and digital activism. 
 
 ### Publications
 
