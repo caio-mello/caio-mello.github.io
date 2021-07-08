@@ -16,7 +16,7 @@ My main research interests lie in the field of media studies, digital methods, u
 To see my publication record please check out my [ORCID profile](https://orcid.org/0000-0001-7492-7237).
 
 ### Other publications and blog posts
-
+- [London’s Olympic Legacy: Local, National and International Aspirations](https://blogs.bl.uk/webarchive/2021/07/londons-olympic-legacy-local-national-and-international-aspirations.html), UK Web Archive Blog - British Library
 - [#OccupyEstelita: The Emergence of Identity as Part of Politcal Performativity in the Use of Facebook Events by Social Movements](https://www.cais.nrw/wp-94fa4-content/uploads/CAIS_Report/Mello-2018-Political-Performativity-CAIS-Report.pdf), Center for Advanced Internet Studies - CAIS Fellowship Report 
 - [Exploring media events with Shine](https://blogs.bl.uk/webarchive/2020/10/exploring-media-events-with-shine.html), UK Web Archive Blog - British Library
 - [A study of Black Lives Matter protests on TikTok using the digital snowball method](https://wiki.digitalmethods.net/Dmi/SummerSchool2020CuratingPoliticsonTikTok), Digital Methods Summer School - Universiteit van Amsterdam
